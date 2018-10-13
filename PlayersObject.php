@@ -11,9 +11,6 @@
 
       Feel free to add as many additional classes and interfaces as you see fit.
 
-      Note: Please create a fork of the https://github.com/BrandonLegault/exercise repository and commit your changes
-        to your fork. The goal here is not 100% correctness, but instead a glimpse into how you
-        approach refactoring/redesigning bad code. Commit often to your fork.
 
 */
 
